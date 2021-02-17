@@ -6,7 +6,15 @@ namespace UsingMyFavoritePlatform.HomeWork
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // 1
+            // AmountOfAvailableMemoryToAllocate.DisplayAmountOfAvailableMemoryToAllocate();
+            
+            // 2
+            // MaxSingleBlockToAllocate.MostLikelyStackOverflowException();
+            // MaxSingleBlockToAllocate.OverflowException();
+            // MaxSingleBlockToAllocate.DisplayApproximateMaxSingleBlockToAllocate();
+
+            Console.ReadKey();
         }
     }
 }
